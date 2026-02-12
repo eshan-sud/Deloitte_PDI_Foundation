@@ -1,0 +1,43 @@
+name: Day-4 CI/CD Demo
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+env:
+  GITHUB_USERNAME: eshan-sud
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup environment
+        run: |
+          echo "Building for user: ${{ env.GITHUB_USERNAME }}"
+          echo "Repository: ${{ github.repository }}"
+
+      - name: Build
+        run: |
+          echo "Building application..."
+          echo "Build completed successfully"
+
+      - name: Test
+        run: |
+          echo "Running tests..."
+          echo "All tests passed"
+
+      - name: Deploy
+        run: |
+          echo "Deploying for ${{ env.GITHUB_USERNAME }}"
+          echo "Deployment successful"
+
+      - name: Notification
+        if: success()
+        run: |
+          echo "Pipeline completed successfully for ${{ env.GITHUB_USERNAME }}"

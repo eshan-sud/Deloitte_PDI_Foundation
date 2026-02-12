@@ -25,3 +25,12 @@
   - curl
   - Postman
   - OpenAPI specification
+
+- Day-4 - 12th February, 2026
+  - DevOps
+  - CICD
+  - Git/GitHub/GitLab
+  - Jenkins
+  - GitHub Actions
+
+- 
