@@ -1,0 +1,91 @@
+# Start MySQL
+mysql -u root -p
+
+# Show Databases
+SHOW DATABASES;
+
+# Create Database
+CREATE DATABASE testdemo;
+
+# Use Database
+USE testdemo;
+
+# Show Tables
+SHOW TABLES;
+
+# Create Table
+CREATE TABLE users (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(100) NOT NULL,
+  email VARCHAR(100)
+);
+
+# Describe Table
+DESCRIBE users;
+
+# Insert One
+INSERT INTO users (name, email) VALUES ('eshan', 'abcd@gmail.com');
+
+# Insert Many
+INSERT INTO users (name, email) VALUES
+('kajal', 'kajal@cloudthat.com'),
+('arjun', 'arjun@cloudthat.com'),
+('kiran', 'kiran@cloudthat.com');
+
+# Select All
+SELECT * FROM users;
+
+# Select Specific Columns
+SELECT name, email FROM users;
+
+# Select with Condition
+SELECT * FROM users WHERE name = 'kajal';
+
+# Select with LIKE
+SELECT * FROM users WHERE email LIKE '%cloudthat%';
+
+# Sort Ascending
+SELECT * FROM users ORDER BY name ASC;
+
+# Sort Descending
+SELECT * FROM users ORDER BY name DESC;
+
+# Limit Results
+SELECT * FROM users LIMIT 2;
+
+# Count Rows
+SELECT COUNT(*) FROM users;
+SELECT COUNT(*) FROM users WHERE name = 'kajal';
+
+# Update One
+UPDATE users SET email = 'newemail@cloudthat.com' WHERE name = 'eshan';
+
+# Update Multiple
+UPDATE users SET status = 'active';
+
+# Delete One
+DELETE FROM users WHERE name = 'kiran';
+
+# Delete with Condition
+DELETE FROM users WHERE status = 'active';
+
+# Add Column
+ALTER TABLE users ADD COLUMN status VARCHAR(20);
+
+# Drop Column
+ALTER TABLE users DROP COLUMN status;
+
+# Not Equal
+SELECT * FROM users WHERE name != 'kajal';
+
+# OR Condition
+SELECT * FROM users WHERE name = 'kajal' OR name = 'arjun';
+
+# AND Condition
+SELECT * FROM users WHERE name = 'kajal' AND email LIKE '%cloudthat%';
+
+# Drop Table
+DROP TABLE users;
+
+# Drop Database
+DROP DATABASE testdemo;

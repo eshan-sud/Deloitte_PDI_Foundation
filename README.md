@@ -33,4 +33,9 @@
   - Jenkins
   - GitHub Actions
 
+- Day-5 - 13th February, 2026
+  - Full Stack Development Basics
+  - Web Development
+  - MySQL/MongoDB
+
 - 

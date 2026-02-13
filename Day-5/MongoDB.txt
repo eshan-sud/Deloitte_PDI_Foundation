@@ -1,0 +1,80 @@
+# Start Mongo Shell
+mongosh
+
+# Show Databases
+show dbs;
+
+# Create/Switch Database
+use testdemo;
+
+# Show Collections
+show collections;
+
+# Create Collection
+db.createCollection("users");
+
+# Insert One
+db.users.insertOne({ name: "eshan", email: "abcd@gmail.com" });
+
+# Insert Many
+db.users.insertMany([
+  { name: "kajal", email: "kajal@cloudthat.com" },
+  { name: "arjun", email: "arjun@cloudthat.com" },
+  { name: "kiran", email: "kiran@cloudthat.com" }
+]);
+
+# Find All
+db.users.find();
+db.users.find().pretty();
+
+# Find One
+db.users.findOne({ name: "kajal" });
+
+# Find with Condition
+db.users.find({ name: "arjun" });
+
+# Projection (Select Fields)
+db.users.find({}, { name: 1, _id: 0 });
+
+# Sort Ascending
+db.users.find().sort({ name: 1 });
+
+# Sort Descending
+db.users.find().sort({ name: -1 });
+
+# Limit Results
+db.users.find().limit(2);
+
+# Count Documents
+db.users.countDocuments();
+db.users.countDocuments({ name: "kajal" });
+
+# Update One
+db.users.updateOne({ name: "eshan" }, { $set: { role: "admin" } });
+
+# Update Many
+db.users.updateMany({}, { $set: { status: "active" } });
+
+# Delete One
+db.users.deleteOne({ name: "kiran" });
+
+# Delete Many
+db.users.deleteMany({ status: "active" });
+
+# Not Equal
+db.users.find({ name: { $ne: "kajal" } });
+
+# OR Condition
+db.users.find({ $or: [{ name: "kajal" }, { name: "arjun" }] });
+
+# Regex Search
+db.users.find({ email: /cloudthat/ });
+
+# Aggregation
+db.users.aggregate([{ $group: { _id: "$role", total: { $sum: 1 } } }]);
+
+# Drop Collection
+db.users.drop();
+
+# Drop Database
+db.dropDatabase();
