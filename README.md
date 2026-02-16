@@ -38,4 +38,8 @@
   - Web Development
   - MySQL/MongoDB
 
-- 
+- Day-6 - 16th February, 2026
+  - Full Stack Development Basics
+  - Client-server architecture
+  - HTML5
+  - CSS3
