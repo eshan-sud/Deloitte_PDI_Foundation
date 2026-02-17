@@ -43,3 +43,8 @@
   - Client-server architecture
   - HTML5
   - CSS3
+
+- Day-7 - 17th February, 2026
+  - Full Stack Development Basics
+  - JavaScript
+  - DOM
