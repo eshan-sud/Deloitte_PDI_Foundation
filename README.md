@@ -48,3 +48,11 @@
   - Full Stack Development Basics
   - JavaScript
   - DOM
+
+- Day-8 - 18th February, 2026
+  - Full Stack Development Basics
+  - ES6
+  - Promises
+  - ESM
+  - Bootstrap CSS
+  - Tailwind CSS
