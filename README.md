@@ -56,3 +56,12 @@
   - ESM
   - Bootstrap CSS
   - Tailwind CSS
+
+- Day-9 - 19th February, 2026
+  - Full Stack Development Basics
+  - Node.js
+  - Express.js
+  - Postman
+  - Podman
+  - Routing
+  - Middleware
