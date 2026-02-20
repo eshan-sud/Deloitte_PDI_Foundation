@@ -38,6 +38,8 @@
   - Web Development
   - MySQL/MongoDB
 
+### Week-2:
+
 - Day-6 - 16th February, 2026
   - Full Stack Development Basics
   - Client-server architecture
@@ -65,3 +67,13 @@
   - Podman
   - Routing
   - Middleware
+
+- Day-10 - 20th February, 2026
+  - Full Stack Development Basics
+  - React.js
+  - JSX
+  - JWT
+  - Tailwind CSS
+  - Routing using link
+  - Image loading
+
