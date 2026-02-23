@@ -77,3 +77,12 @@
   - Routing using link
   - Image loading
 
+### Week-3:
+
+- Day-11 - 23rd February, 2026
+  - Full Stack Development Basics
+  - Next.js
+  - Axios
+  - Daisy UI
+  - SSG / SSR
+  - Data fetching in Next.js
