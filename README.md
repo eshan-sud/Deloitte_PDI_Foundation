@@ -81,8 +81,12 @@
 
 - Day-11 - 23rd February, 2026
   - Full Stack Development Basics
-  - Next.js
-  - Axios
+  - JSX
+  - Props
+  - Conditional rendering
+  - Fetch API & Axios
   - Daisy UI
-  - SSG / SSR
-  - Data fetching in Next.js
+  - UseState, UseEffect, UseRef
+  - Parsing data
+  - Routing
+  - React Router
