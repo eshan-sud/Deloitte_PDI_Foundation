@@ -1,0 +1,19 @@
+_id,name,city,state,photo,availableUnits,wifi,laundry,location,price,__v
+67dd2fe421036760a26e0818,Acme Fresh Start Housing,Chicago,IL,https://angular.dev/assets/images/tutorials/common/bernard-hermant-CLKGGwIBTaY-unsplash.jpg,4,true,true,,,
+67dd2ff121036760a26e081a,A113 Transitional Housing,Santa Monica,CA,https://angular.dev/assets/images/tutorials/common/brandon-griggs-wR11KBaB86U-unsplash.jpg,0,false,true,,,
+67dd386c54ad42103f68b310,Warm Beds Housing Support,Juneau,AK,https://angular.dev/assets/images/tutorials/common/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg,1,false,false,,,
+67dd38ed56f325acb39378bc,Homesteady Housing,Chicago,IL,https://angular.dev/assets/images/tutorials/common/ian-macdonald-W8z6aiwfi1E-unsplash.jpg,1,true,false,,,
+6997e3aafe484e491d8dd235,Arjun Villas,,,,,,,Bengaluru,4000000,0
+6997e3e7fe484e491d8dd237,vks Villas,,,,,,,Bengaluru,4000000,0
+6998007b5e73ef51f1f2f8b2,Hopeful Apartment Group,Oakland,CA,https://angular.dev/assets/images/tutorials/common/r-architecture-JvQ0Q5IkeMM-unsplash.jpg,2,true,true,,,
+6998009d3dd8df3dd259e9d4,Seriously Safe Towns,Oakland,CA,https://angular.dev/assets/images/tutorials/common/phil-hearing-IYfp2Ixe9nM-unsplash.jpg,5,true,true,,,
+69980b622f7e45f532837f10,Hopeful Housing Solutions,Oakland,CA,https://angular.dev/assets/images/tutorials/common/r-architecture-GGupkreKwxA-unsplash.jpg,2,true,true,,,
+699c1a224f94ae7ab32bb8ad,Happy Homes Group,Gary,IN,https://angular.dev/assets/images/tutorials/common/krzysztof-hepner-978RAXoXnH4-unsplash.jpg,1,true,false,,,
+699c1a7f4f94ae7ab32bb8af,Seriously Safe Towns,Oakland,CA,https://angular.dev/assets/images/tutorials/common/saru-robert-9rP3mxf8qWI-unsplash.jpg,10,false,false,,,
+699c1a924f94ae7ab32bb8b1,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1aa74f94ae7ab32bb8b3,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1ab94f94ae7ab32bb8b5,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1ac94f94ae7ab32bb8b7,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1ada4f94ae7ab32bb8b9,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1aeb4f94ae7ab32bb8bb,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,
+699c1afc4f94ae7ab32bb8bd,Capital Safe Towns,Portland,OR,https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg,6,true,true,,,

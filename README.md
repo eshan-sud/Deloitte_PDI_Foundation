@@ -90,3 +90,12 @@
   - Parsing data
   - Routing
   - React Router
+
+- ## Day-12 - 24th February, 2026
+  - Full Stack Development Basics
+  - Next.js
+  - Creating a Nex.js app
+  - Routing in Next.js app
+  - SSG (Static-Site Generation)
+  - SSR (Static-Site Rendering)
+  - Data fetching in Next.js
