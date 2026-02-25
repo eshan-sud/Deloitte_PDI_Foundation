@@ -2,7 +2,7 @@
 
 ### Week-1:
 
-- Day-1 - 9th February, 2026
+- ## Day-1 - 9th February, 2026
   - PDI Foundation
   - Modern Application Design
   - Design principles - Monolithic/microservices
@@ -12,7 +12,7 @@
   - CQRS
   - Event Sourcing
 
-- Day-2 - 10th February, 2026
+- ## Day-2 - 10th February, 2026
   - Development Methodologies - Waterfall, Agile, Scrum, Kanban
   - Virtualisation
   - Containerisation
@@ -20,38 +20,38 @@
   - Docker
   - Terraform
 
-- Day-3 - 11th February, 2026
+- ## Day-3 - 11th February, 2026
   - REST APIs
   - curl
   - Postman
   - OpenAPI specification
 
-- Day-4 - 12th February, 2026
+- ## Day-4 - 12th February, 2026
   - DevOps
   - CICD
   - Git/GitHub/GitLab
   - Jenkins
   - GitHub Actions
 
-- Day-5 - 13th February, 2026
+- ## Day-5 - 13th February, 2026
   - Full Stack Development Basics
   - Web Development
   - MySQL/MongoDB
 
 ### Week-2:
 
-- Day-6 - 16th February, 2026
+- ## Day-6 - 16th February, 2026
   - Full Stack Development Basics
   - Client-server architecture
   - HTML5
   - CSS3
 
-- Day-7 - 17th February, 2026
+- ## Day-7 - 17th February, 2026
   - Full Stack Development Basics
   - JavaScript
   - DOM
 
-- Day-8 - 18th February, 2026
+- ## Day-8 - 18th February, 2026
   - Full Stack Development Basics
   - ES6
   - Promises
@@ -59,7 +59,7 @@
   - Bootstrap CSS
   - Tailwind CSS
 
-- Day-9 - 19th February, 2026
+- ## Day-9 - 19th February, 2026
   - Full Stack Development Basics
   - Node.js
   - Express.js
@@ -68,7 +68,7 @@
   - Routing
   - Middleware
 
-- Day-10 - 20th February, 2026
+- ## Day-10 - 20th February, 2026
   - Full Stack Development Basics
   - React.js
   - JSX
@@ -79,7 +79,7 @@
 
 ### Week-3:
 
-- Day-11 - 23rd February, 2026
+- ## Day-11 - 23rd February, 2026
   - Full Stack Development Basics
   - JSX
   - Props
@@ -99,3 +99,8 @@
   - SSG (Static-Site Generation)
   - SSR (Static-Site Rendering)
   - Data fetching in Next.js
+
+- ## Day-13 - 25th February, 2026
+  - Full Stack Development Basics
+  - Java Programming
+  - OOPs Programming

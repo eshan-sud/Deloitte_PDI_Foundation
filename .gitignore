@@ -1,5 +1,6 @@
 # .gitignore
 
+.idea/
 .vscode/
 *-deprecated/
 file-structure.txt
