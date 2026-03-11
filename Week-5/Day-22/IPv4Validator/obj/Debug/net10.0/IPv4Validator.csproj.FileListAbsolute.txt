@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\bin\Debug\net10.0\IPv4Validator.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\bin\Debug\net10.0\IPv4Validator.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\bin\Debug\net10.0\IPv4Validator.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\bin\Debug\net10.0\IPv4Validator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\bin\Debug\net10.0\IPv4Validator.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\refint\IPv4Validator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\IPv4Validator.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\IPv4Validator\obj\Debug\net10.0\ref\IPv4Validator.dll

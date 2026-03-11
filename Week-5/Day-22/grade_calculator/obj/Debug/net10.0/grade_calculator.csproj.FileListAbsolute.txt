@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\bin\Debug\net10.0\grade_calculator.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\bin\Debug\net10.0\grade_calculator.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\bin\Debug\net10.0\grade_calculator.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\bin\Debug\net10.0\grade_calculator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\bin\Debug\net10.0\grade_calculator.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\refint\grade_calculator.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\grade_calculator.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\grade_calculator\obj\Debug\net10.0\ref\grade_calculator.dll

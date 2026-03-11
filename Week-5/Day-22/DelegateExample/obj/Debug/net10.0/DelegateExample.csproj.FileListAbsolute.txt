@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\bin\Debug\net10.0\DelegateExample.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\bin\Debug\net10.0\DelegateExample.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\bin\Debug\net10.0\DelegateExample.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\bin\Debug\net10.0\DelegateExample.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\bin\Debug\net10.0\DelegateExample.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\refint\DelegateExample.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\DelegateExample.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\DelegateExample\obj\Debug\net10.0\ref\DelegateExample.dll

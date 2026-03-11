@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\bin\Debug\net10.0\BankingApp.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\bin\Debug\net10.0\BankingApp.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\bin\Debug\net10.0\BankingApp.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\bin\Debug\net10.0\BankingApp.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\bin\Debug\net10.0\BankingApp.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\refint\BankingApp.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\BankingApp.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\BankingApp\obj\Debug\net10.0\ref\BankingApp.dll

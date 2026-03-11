@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\bin\Debug\net10.0\UserInput.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\bin\Debug\net10.0\UserInput.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\bin\Debug\net10.0\UserInput.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\bin\Debug\net10.0\UserInput.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\bin\Debug\net10.0\UserInput.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\refint\UserInput.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\UserInput.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-22\UserInput\obj\Debug\net10.0\ref\UserInput.dll
