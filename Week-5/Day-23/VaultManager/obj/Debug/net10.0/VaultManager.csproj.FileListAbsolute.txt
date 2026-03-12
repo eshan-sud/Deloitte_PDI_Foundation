@@ -1,0 +1,15 @@
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\bin\Debug\net10.0\VaultManager.exe
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\bin\Debug\net10.0\VaultManager.deps.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\bin\Debug\net10.0\VaultManager.runtimeconfig.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\bin\Debug\net10.0\VaultManager.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\bin\Debug\net10.0\VaultManager.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.AssemblyInfoInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.AssemblyInfo.cs
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.sourcelink.json
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\refint\VaultManager.dll
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.pdb
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\VaultManager.genruntimeconfig.cache
+C:\Users\Eshan Sud\Desktop\PDI\Week-5\Day-23\VaultManager\obj\Debug\net10.0\ref\VaultManager.dll

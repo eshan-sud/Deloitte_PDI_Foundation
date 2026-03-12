@@ -181,3 +181,11 @@
 - C#
 - C# OOPs
 - .NET
+
+#### Day-23 - 12th March, 2026
+
+- ASP.NET Framework
+- C#
+- .NET Framework
+
+Sir, I noticed a reference file for the capstone project in the GitHub repository you have shared with us, is that the same project being assigned to us, or will we be given a different project altogether?

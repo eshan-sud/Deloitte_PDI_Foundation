@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPv4Validator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a322ed76c43e31ed1d2bcc6041e6efc22f8c745")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f292d0a75d3666a69be54a991b9d07099adc968c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPv4Validator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPv4Validator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
