@@ -194,3 +194,39 @@
 - Moq framework
 - TDD Approach
 - Adding dependencies to the ASP.NET project
+
+### Week-6:
+
+#### Day-25 - 16th March, 2026
+
+- ASP.NET
+
+#### Day-26 - 17th March, 2026
+
+-
+
+#### Day-27 - 18th March, 2026
+
+-
+
+#### Day-28 - 19th March, 2026
+
+-
+
+#### Day-29 - 20th March, 2026
+
+-
+
+### Week-7:
+
+#### Day-30 - 23rd March, 2026
+
+-
+
+#### Day-31 - 24th March, 2026
+
+-
+
+#### Day-32 - 25th March, 2026
+
+- ***
