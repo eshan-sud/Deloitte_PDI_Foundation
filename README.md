@@ -203,21 +203,21 @@
 
 #### Day-26 - 17th March, 2026
 
--
+- ASP.NET, Authentication
 
 #### Day-27 - 18th March, 2026
 
--
+- ASP.NET, Pagination
 
 #### Day-28 - 19th March, 2026
 
 -
 
+### Week-7:
+
 #### Day-29 - 20th March, 2026
 
 -
-
-### Week-7:
 
 #### Day-30 - 23rd March, 2026
 
