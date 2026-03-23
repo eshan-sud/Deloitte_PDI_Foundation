@@ -211,13 +211,19 @@
 
 #### Day-28 - 19th March, 2026
 
--
+- Docker
+- Docker commands
+- Persisting data through multiple instances
 
 ### Week-7:
 
 #### Day-29 - 20th March, 2026
 
--
+- Docker
+- AWS EC2
+- AWS VPC
+- AWS S3
+- AWS Project Deployment
 
 #### Day-30 - 23rd March, 2026
 
