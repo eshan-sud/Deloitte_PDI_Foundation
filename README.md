@@ -228,11 +228,18 @@
 #### Day-30 - 23rd March, 2026
 
 - AWS IAM
+- AWS IAM Roles
+- AWS Secret Keys
+- Depolyment of production projects on AWS
+- Basics of UI/UX
 
 #### Day-31 - 24th March, 2026
 
--
+- UI/UX
+- Wireframing / LLD
 
 #### Day-32 - 25th March, 2026
 
-- ***
+-
+
+---
