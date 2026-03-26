@@ -238,8 +238,4 @@
 - UI/UX
 - Wireframing / LLD
 
-#### Day-32 - 25th March, 2026
-
--
-
 ---
